@@ -1,6 +1,6 @@
 # DAY 4
 <h1>
-<a href="https://honeyandanis-portfolio.netlify.app">Portfolio</a>
+<a href="https://honeyandanis-portfolio.netlify.app" target="blank">Portfolio</a>
 </h1>
 
 
